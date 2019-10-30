@@ -26,19 +26,16 @@ var studenti = [
           "nome" : "Bart",
           "cognome": "Simpson",
           "eta": 13
-
       },
       {
           "nome": "Lisa",
           "cognome": "Simpson2",
           "eta": 14
-
       },
       {
           "nome": "Nelson",
           "cognome": "Mandela",
           "eta": 15
-
       }
      ]
 
