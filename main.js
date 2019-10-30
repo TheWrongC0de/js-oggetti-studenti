@@ -18,3 +18,9 @@ for (var key in studente) {
 }
 
 //creo array di oggetti studente
+
+var studenti = {
+  "nomi" : ["Bart" , "Nelson" , "Lisa" , "Milause"],
+  "cognomi" : ["Simpson" , "Mandela" , "Simpson2" , "Nonricordo"],
+  "età" : ["13" , "15" , "18" , "22"]
+}
